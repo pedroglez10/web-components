@@ -5,8 +5,8 @@ template.innerHTML = `
             background: yellow;
         }
     </style>
-    <h2>Este es un template</h2>
-    <p class="marked">ejemplo de un template.</p>
+    <h2>Este es un Custome element</h2>
+    <p class="marked">ejemplo de un elemento customizable.</p>
 `;
 
 class myElement extends HTMLElement {
